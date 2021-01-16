@@ -1,0 +1,32 @@
+{
+    "advisors": [
+        {
+            "advisor_name": "Advisor Laura",
+            "profile_pic_url": "https://i.pravatar.cc/400?img=49",
+            "rate": "$4.99/min",
+            "call_available": true,
+            "chat_available": false
+        },
+        {
+            "advisor_name": "Miss Elisabeth",
+            "profile_pic_url": "https://i.pravatar.cc/400?img=48",
+            "rate": "$7.99/min",
+            "call_available": true,
+            "chat_available": true
+        },
+        {
+            "advisor_name": "Advisor Jada",
+            "profile_pic_url": "https://i.pravatar.cc/400?img=47",
+            "rate": "$2.49/min",
+            "call_available": false,
+            "chat_available": true
+        },
+        {
+            "advisor_name": "RexFrederik",
+            "profile_pic_url": "https://i.pravatar.cc/400?img=52",
+            "rate": "$4.25/min",
+            "call_available": false,
+            "chat_available": true
+        }
+    ]
+}
